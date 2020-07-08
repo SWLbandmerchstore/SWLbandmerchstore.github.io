@@ -1,0 +1,62 @@
+html
+{
+background-image: linear-gradient(#b3b300, #b3b300);
+
+}
+
+.container{
+border:solid black 1px;
+margin:0 auto;
+width:960px;
+background-color:white;
+}
+
+header{
+border-bottom:solid black 1px;
+background-color:rgba(140, 14, 3, 0.8);
+padding:10px;
+text-align:center;
+
+}
+
+h1.headTitle{
+color:green;
+ text-shadow: 2px 2px 4px black;
+padding:10px;
+}
+
+nav{
+border-bottom:solid black 1px;
+background-color:#8C0E03;
+
+}
+
+
+
+
+section{
+padding:10px;
+
+
+footer{
+border-top:solid black 1px;
+background-color:#81827C;
+clear:both;
+height:50px;
+padding:5px;
+
+}
+
+
+button{
+color:white
+text-transformation:uppercase;
+background color: rgba(140, 14, 3, 0.8);
+
+
+
+
+
+
+
+
